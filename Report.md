@@ -4,7 +4,7 @@
 
 В результате тестирования выявлен следующий дефект:
 
-![link text](https://github.com/dianest/MoneyTransfer/issues/1)
+![При пополнении счета баланс клиента становится отрицательным](https://github.com/dianest/MoneyTransfer/issues/1)
 
 ## Описание процесса тестирования
 
