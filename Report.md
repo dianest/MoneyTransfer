@@ -4,7 +4,7 @@
 
 В результате тестирования выявлен следующий дефект:
 
-![](https://github.com/dianest/MoneyTransfer/issues/1)
+![link text](https://github.com/dianest/MoneyTransfer/issues/1)
 
 ## Описание процесса тестирования
 
